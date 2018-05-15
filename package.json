@@ -1,0 +1,22 @@
+{
+  "name": "hackernews-react-urql",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "graphql": "^0.12.3",
+    "prop-types": "^15.6.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.2",
+    "subscriptions-transport-ws": "^0.9.5",
+    "urql": "^0.3.0-next1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
